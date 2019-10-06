@@ -1,0 +1,13 @@
+This dataset requires use of a cost matrix (see below) 
+
+..... 1 0 
+---------------------------- 
+1     0 1 
+----------------------- 
+0     5 0 
+
+(1 = Good, 0 = Bad) 
+
+The rows represent the actual classification and the columns the predicted classification. 
+
+It is worse to class a customer as good when they are bad (5), than it is to class a customer as bad when they are good (1). 
