@@ -3,7 +3,7 @@ async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
 attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 bleach @ file:///tmp/build/80754af9/bleach_1612211392645/work
-certifi==2020.12.5
+certifi==2022.12.7
 cffi @ file:///C:/ci/cffi_1613247279197/work
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 cycler==0.10.0
